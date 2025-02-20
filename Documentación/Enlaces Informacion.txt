@@ -1,0 +1,3 @@
+-Pagina JavaScript -> https://lenguajejs.com/javascript/
+
+-Ejemplos usos -> https://www.uv.es/jac/guia/jscript/javascr.htm
